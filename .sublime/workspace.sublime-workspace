@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-decoration-break"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pillcolor",
+				"pill-color-ok"
+			],
+			[
+				"pill-",
+				"pill-width"
+			],
+			[
+				"pill",
+				"pill-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/lernax"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/scratch/workspace/npm-workspace-submod/.git/modules/packages/design/MERGE_MSG",
+		"/C/wamp/www/spreadless-DEPRECATED-II/app/docs/.vuepress/enhanceApp.js",
+		"/C/wamp/www/spreadless/app/package.json",
+		"/C/wamp/www/spreadless/rfcs/001-design-system-architecture.md",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/config.js",
+		"/C/wamp/www/lernax/packages/wptheme/node_modules/design-system/package.json",
+		"/C/wamp/www/lernax/packages/server/package.json",
+		"/C/wamp/www/apollo/client/src/scss/design/_colors.scss",
+		"/C/wamp/www/spreadless/app/design/colors.scss",
+		"/C/wamp/www/spreadless/app/stories/color.stories.js",
+		"/C/wamp/www/apollo/client/build/webpack.client.base.js",
+		"/C/wamp/www/spreadless/app/src/styles/design/index.scss",
+		"/C/wamp/www/apollo/client/build/webpack.client.dev.js",
+		"/C/wamp/www/spreadless/app/src/styles/design/colors.json",
+		"/C/wamp/www/spreadless/app/src/styles/design/_colors.scss",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/styles/_test.scss",
+		"/C/wamp/www/spreadless/app/stories/Button.stories.js",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/colors/overview.md",
+		"/C/wamp/www/spreadless/app/.storybook/webpack.config.js",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/styles/test.json",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/styles/palette.styl",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/colors/useage.md",
+		"/C/wamp/www/apollo/client/src/views/login.vue",
+		"/C/wamp/www/apollo/client/src/scss/design/_layout.scss",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/plugins/yesno/index.js",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/plugins/yesno/default.styl",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/styles/index.styl",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/content/overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/content/guidance.md",
+		"/C/wamp/www/vuepress-plugin-dodont/package.json",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/content/action-labels.md",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/public/fonts/style.styl",
+		"/C/wamp/www/spreadless/app/package-lock.json",
+		"/C/wamp/www/spreadless/app/.gitignore",
+		"/C/wamp/www/spreadless/app/src/components/base-button/base-button.stories.js",
+		"/C/wamp/www/spreadless/app/src/components/base-button/base-button.md",
+		"/C/wamp/www/spreadless/app/src/components/base-button/_docs/style.md",
+		"/C/wamp/www/spreadless/app/src/components/base-button/_docs/code.md",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/plugins/dodonot/default.styl",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/plugins/dodonot/index.js",
+		"/C/wamp/www/vuepress-plugin-dodont/src/index.js",
+		"/C/wamp/www/vuepress-plugin-dodont/dist/vuepress-plugin-dodont.cjs.js",
+		"/C/wamp/www/vuepress-plugin-dodont/dist/vuepress-plugin-dodont.esm.js",
+		"/C/wamp/www/scratch/vuepress/.vuepress/theme/components/Page.vue",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/accessibility/overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/accessibility/color.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/accessibility/developers.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/accessibility/keyboard.md",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/theme/util/index.js",
+		"/C/wamp/www/scratch/vuepress/.vuepress/theme/index.js",
+		"/C/wamp/www/scratch/vuepress/.vuepress/theme/util/index.js",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/theme/components/PageNav.vue",
+		"/C/wamp/www/spreadless/app/node_modules/@babel/traverse/lib/scope/index.js",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/content/README.md",
+		"/C/wamp/www/scratch/vuepress/.vuepress/theme/components/PageNav.vue",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/theme/components/NavLinks.vue",
+		"/C/wamp/www/scratch/vuepress/.vuepress/theme/components/NavLinks.vue",
+		"/C/wamp/www/scratch/vuepress/.vuepress/theme/layouts/Layout.vue",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/typography/overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/typography/useage.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/typography/code.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/grid-overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/grid-implementation.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/colors.md",
+		"/C/wamp/www/spreadless/app/docs/design/designing.md",
+		"/C/wamp/www/spreadless/app/docs/design/designing/designkits.md",
+		"/C/wamp/www/spreadless/app/design/docs/README.md",
+		"/C/wamp/www/spreadless/app/src/components/base-button/base-button.vue",
+		"/C/wamp/www/spreadless/app/src/components/base-button/button-mixin.js",
+		"/C/wamp/www/carbon-design-system/README.md",
+		"/C/wamp/www/spreadless/app/README.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/spacing/overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/accessibility/overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/spacing/code.md",
+		"/C/wamp/www/spreadless/app/docs/design/components/inputs.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/README.md",
+		"/C/wamp/www/spreadless/app/docs/design/developing/addingcomponents.md",
+		"/C/wamp/www/spreadless/app/docs/design/developing/documentation.md",
+		"/C/wamp/www/spreadless/app/docs/design/developing/bugsandrequests.md",
+		"/C/wamp/www/spreadless/app/docs/design/developing/getstarted.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/colors/code.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/grid/overview.md",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/grid/implementation.md",
+		"/C/wamp/www/spreadless/app/.storybook/preview.js",
+		"/C/wamp/www/spreadless/app/docs/design/guidelines/colors/colors-implementation.md",
+		"/C/wamp/www/spreadless/app/stories/designsystemcolors.stories.mdx",
+		"/C/wamp/www/spreadless/app/docs/design/designing/getstarted.md",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/styles/override.styl",
+		"/C/wamp/www/spreadless/app/docs/.vuepress/override.styl",
+		"/C/wamp/www/spreadless/app/docs/design/README.md",
+		"/C/wamp/www/carbon-design-system/.github/CONTRIBUTING.md",
+		"/C/wamp/www/spreadless/app/stories/systemcolors.stories.js",
+		"/C/wamp/www/carbon-components-vue/storybook/.storybook/config.js",
+		"/C/wamp/www/carbon-components-vue/storybook/.storybook/main.js",
+		"/C/wamp/www/carbon-components-vue/storybook/.storybook/styles.scss",
+		"/C/wamp/www/carbon-components-vue/storybook/.storybook/webpack.config.js",
+		"/C/wamp/www/carbon-components-vue/storybook/_storybook/components/timer-button.vue",
+		"/C/wamp/www/carbon-components-vue/storybook/_storybook/utils/consts.js",
+		"/C/wamp/www/carbon-components-vue/storybook/_storybook/utils/knobs-helper.js",
+		"/C/wamp/www/carbon-components-vue/storybook/README.md",
+		"/C/wamp/www/spreadless/app/src/components/base-button/button-mvp.stories.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/components/cv-slider/cv-slider.vue",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/components/cv-slider/index.js",
+		"/C/wamp/www/carbon-components-vue/README.md",
+		"/C/wamp/www/spreadless/app/src/components/base-button/base-button.stories.mdx",
+		"/C/wamp/www/carbon-design-system/packages/sketch/src/tools/profiler.js",
+		"/C/wamp/www/carbon-design-system/aat/aat.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/public/demo.html",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/index-components-vue.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/.npmignore",
+		"/C/wamp/www/carbon-design-system/CODEOWNERS",
+		"/C/wamp/www/carbon-design-system/docs/style.md",
+		"/C/wamp/www/carbon-design-system/docs/on-windows-hcm-support.md",
+		"/C/wamp/www/carbon-design-system/docs/guides/setup/windows.md",
+		"/C/wamp/www/carbon-design-system/docs/guides/setup/virtual-machines.md",
+		"/C/wamp/www/carbon-design-system/e2e/icons-vue/components-test.js",
+		"/C/wamp/www/carbon-design-system/tasks/publish.sh",
+		"/C/wamp/www/carbon-design-system/tasks/sync.js",
+		"/C/wamp/www/carbon-design-system/tasks/examples.js",
+		"/C/wamp/www/carbon-components-vue/storybook/stories/cv-select-story.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/check-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/uid-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/theme-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/radio-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/notification-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/methods-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/mixins/link-mixin.js",
+		"/C/wamp/www/carbon-components-vue/packages/core/src/internal/feature-flags.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\casemanager\\client\\src\\router\\views",
+			"C:\\wamp\\www\\casemanager\\server\\services"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n|",
+			"| `$spacing-03`              | 0.5   |   8  | <div class=\"box box__spacing box__spacing-02\"></div> |",
+			"');\n",
+			"caseValue",
+			"formStatus",
+			"formError",
+			"originalOrder",
+			"fakeoptions",
+			"testme",
+			"checklist",
+			"groupInput",
+			"groupAutocomplete",
+			"autocomplete",
+			"copySSN",
+			"autocomplete",
+			"caseExport",
+			"lisError",
+			"caseExport",
+			"panelloader",
+			"accessioning",
+			"toPhone",
+			"testme",
+			"theItems",
+			"checkableList",
+			"checklist",
+			"lookupValue",
+			"autoToggle",
+			"groupCheckbox",
+			"onConvert",
+			"dateTime",
+			"testval",
+			"now",
+			"optionsList",
+			"accessionNumber",
+			"group",
+			"toast",
+			"toasted",
+			"sentDate",
+			"malig"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "workspace.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"/c/wamp/www/budgetapp",
+				"/C/wamp/www/BudgetAppAPI/gruntfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 493.6,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\apollo\\client\\apollo-CLIENT.sublime-project"
+			]
+		],
+		"width": 378.4
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
