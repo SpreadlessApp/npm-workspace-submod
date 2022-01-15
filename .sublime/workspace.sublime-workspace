@@ -99,7 +99,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp/www/lernax"
+		"/C/wamp/www/npm-workspace-submod",
+		"/C/wamp/www/npm-workspace-submod/packages",
+		"/C/wamp/www/npm-workspace-submod/packages/buz",
+		"/C/wamp/www/npm-workspace-submod/packages/buz/packages",
+		"/C/wamp/www/npm-workspace-submod/packages/buz/packages/colors",
+		"/C/wamp/www/npm-workspace-submod/packages/buz/packages/scss-generator",
+		"/C/wamp/www/npm-workspace-submod/packages/server",
+		"/C/wamp/www/npm-workspace-submod/packages/webapp"
 	],
 	"file_history":
 	[
